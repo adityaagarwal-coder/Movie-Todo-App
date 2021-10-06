@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755881650798",
+    "project_id": "movie-todo-app",
+    "storage_bucket": "movie-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755881650798:android:45883ee74c0c5a53e5147f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755881650798-egq1pcod8ceiih5r7kq7nuqm2eu7usln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrp83dPClPvnJnnADTKhzJ6mh3YvIctOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755881650798-egq1pcod8ceiih5r7kq7nuqm2eu7usln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
